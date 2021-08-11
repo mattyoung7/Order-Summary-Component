@@ -38,7 +38,7 @@ button {
 	text-decoration:none;
     font-family: "Red Hat Display", sans-serif;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 15px;
 }
 
 button:hover {
@@ -80,10 +80,9 @@ button:hover {
 .card-body {
     background-color: #fff;
     margin: auto;
-    font-size: 16px;
     font-family: "Red Hat Display", sans-serif;
     width: 450px;
-    padding-top: 40px;
+    padding-top: 50px;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
@@ -91,10 +90,11 @@ button:hover {
 .card-description {
     padding: 20px 70px;
     line-height: 1.5rem;
+    font-size: 16px;
 }
 
 .annual-plan {
-    padding: 20px;
+    padding: 25px 20px;
     text-align: left;
     display: grid;
     grid-template-columns: auto auto;
@@ -102,6 +102,7 @@ button:hover {
     width: 70%;
     margin: 0 auto;
     border-radius: 20px;
+    font-size: 16px;
 }
 
 .annual-plan-text {
@@ -116,6 +117,7 @@ button:hover {
 .annual-plan-link a {
     height: 56px;
     line-height: 56px;
+    font-size: 14px;
 }
 
 .annual-plan-link a:hover {
@@ -133,7 +135,7 @@ button:hover {
 
 .cancel a {
     font-family: "Red Hat Display", sans-serif;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 900;
     text-decoration: none;
     color: grey;
